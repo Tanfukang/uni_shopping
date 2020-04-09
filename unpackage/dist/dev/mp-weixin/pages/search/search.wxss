@@ -1,0 +1,104 @@
+
+.box.data-v-197eae72 {
+	width: 100%;
+	margin: auto;
+}
+.bor.data-v-197eae72 {
+	border: #000000 1rpx solid;
+}
+.search-box.data-v-197eae72 {
+	width: 95%;
+	height: 80rpx;
+	margin: 20rpx auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: space-around;
+	        justify-content: space-around;
+	border-radius: 15rpx;
+}
+.com-box.data-v-197eae72 {
+	width: 10%;
+	height: 100%;
+}
+.inp-box.data-v-197eae72 {
+	width: 70%;
+	height: 80%;
+	line-height: 60rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	background: #F0F0F0;
+	margin-top: 10rpx;
+}
+.inp.data-v-197eae72 {
+	height: 60rpx;
+	margin-top: 10rpx;
+}
+.scan-box.data-v-197eae72 {
+	width: 13%;
+	height: 100%;
+	line-height: 80rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.bgimg.data-v-197eae72 {
+	width: 60rpx;
+	height: 60rpx;
+	margin-top: 10rpx;
+}
+.serchimg.data-v-197eae72 {
+	width: 40rpx;
+	height: 40rpx;
+	margin: 10rpx 10rpx 20rpx 20rpx;
+}
+.tet.data-v-197eae72 {
+	font-size: 28rpx;
+	color: #7A7E83
+}
+
+/* 热门搜索 */
+.hot-box.data-v-197eae72 {
+	width: 99%;
+	margin: 30rpx auto;
+}
+.tit.data-v-197eae72 {
+	font-weight: 600;
+	margin: 30rpx 20rpx;
+}
+.handpick-num.data-v-197eae72 {
+	padding: 5rpx 12rpx;
+	font-size: 28rpx;
+	margin: 10rpx;
+}
+.handpick-num.data-v-197eae72:nth-child(2n) {
+	background: #F8EAE9;
+	border: 1rpx solid #F76260;
+}
+.handpick-num.data-v-197eae72:nth-child(2n-1) {
+	background: #F2F6E8;
+	border: 1rpx solid #4CD964;
+}
+
+/* 常用分类 */
+.clatet.data-v-197eae72 {
+	padding: 10rpx 15rpx;
+	font-size: 30rpx;
+	margin: 10rpx;
+	background: #F5F5F5;
+	color: #C8C7CC;
+}
+
+/* 搜索历史 */
+.hist-list.data-v-197eae72 {
+	width: 100%;
+	margin: auto;
+}
+.histnam.data-v-197eae72 {
+	height: 60rpx;
+	line-height: 60rpx;
+	font-size: 30rpx;
+	text-indent: 1rem;
+}
+

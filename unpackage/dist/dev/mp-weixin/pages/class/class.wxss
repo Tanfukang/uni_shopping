@@ -1,0 +1,107 @@
+
+.container.data-v-170f19f9 {
+	width: 100%;
+}
+
+/* 导航栏 */
+.nav.data-v-170f19f9 {
+	width: 95%;
+	height: 60rpx;
+	padding: 20rpx 30rpx 20rpx;
+}
+.nav view input.data-v-170f19f9 {
+	background: #F7F7F7;
+	font-size: 30rpx;
+	width: 100%;
+	height: 70rpx;
+	padding-left: 80rpx;
+}
+.nav view image.data-v-170f19f9 {
+	width: 40rpx;
+	height: 40rpx;
+	position: absolute;
+	top: 15rpx;
+}
+.nav .topbox.data-v-170f19f9 {
+	position: relative;
+	float: left;
+	width: 80%;
+	height: 80rpx;
+}
+.nav .message.data-v-170f19f9 {
+	width: 60rpx;
+	height: 70rpx;
+	float: right;
+	margin-top: 15rpx;
+}
+.nav .message image.data-v-170f19f9 {
+	width: 60rpx;
+	height: 60rpx;
+	margin-top: 14rpx;
+}
+
+/* 分类列表 */
+.leftlist.data-v-170f19f9 {
+	width: 20%;
+	border-right: 1px solid #F5F5F5;
+	text-align: center;
+	float: left;
+}
+.leftlist .list.data-v-170f19f9 {
+	width: 100%;
+	height: 100rpx;
+	text-align: center;
+	line-height: 100rpx;
+	border-bottom: 1px solid #F5F5F5;
+}
+.leftlist .list text.data-v-170f19f9 {
+	font-size: 25rpx;
+	display: block;
+	width: 96%;
+	height: 100rpx;
+	border-left: 10rpx solid #FFFFFF;
+}
+
+/* 纵向可视图滚动组件 */
+.page-section-spacing.data-v-170f19f9 {
+	margin-top: 60rpx;
+}
+.scroll-view_H.data-v-170f19f9 {
+	white-space: nowrap;
+}
+.scroll-view-item.data-v-170f19f9 {
+	height: 300rpx;
+}
+.scroll-view-item_H.data-v-170f19f9 {
+	display: inline-block;
+	width: 100%;
+	height: 300rpx;
+}
+
+/* 商品介绍 */
+.rightlist.data-v-170f19f9 {
+	width: 78%;
+	float: left;
+	text-align: center;
+}
+.rightlist image.data-v-170f19f9 {
+	width: 130rpx;
+	height: 100rpx;
+}
+.rightlist .introduce.data-v-170f19f9 {
+	width: 160rpx;
+	float: left;
+	text-align: center;
+	padding: 30rpx 15rpx;
+	text-align: center;
+}
+.cententSize.data-v-170f19f9 {
+	font-size: 25rpx;
+}
+
+/* 点击列表后的样式 */
+.actiov.data-v-170f19f9 {
+	color: #FE6100;
+	border-left: 10rpx solid #FE6100 !important;
+}
+

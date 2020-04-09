@@ -1,0 +1,56 @@
+
+.set.data-v-67d4070d {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	font-size: 30rpx;
+	background-color: #EEEEEE;
+}
+.store.data-v-67d4070d {
+	width: 100%;
+	height: 100rpx;
+	line-height: 100rpx;
+	text-indent: 20rpx;
+}
+.user_info.data-v-67d4070d {
+	width: 100%;
+	height: 100rpx;
+	line-height: 100rpx;
+	background-color: #FFFFFF;
+	overflow: hidden;
+	border-bottom: 1rpx solid #CCCCCC;
+}
+.info_text.data-v-67d4070d {
+	text-indent: 20rpx;
+	float: left;
+}
+.right_next.data-v-67d4070d {
+	height: 100%;
+	float: right;
+	margin-top: 10rpx;
+	margin-right: 20rpx;
+}
+.right_next image.data-v-67d4070d {
+	width: 40rpx;
+	height: 40rpx;
+}
+.shouhuo.data-v-67d4070d {
+	width: 100%;
+	height: 100rpx;
+	background-color: #FFFFFF;
+	line-height: 100rpx;
+}
+.user_info.data-v-67d4070d:nth-child(10) {
+	border: none;
+}
+
+/* 退出登录 */
+.log_out.data-v-67d4070d {
+	width: 90%;
+	height: 100rpx;
+	line-height: 100rpx;
+	background-color: #FFFFFF;
+	margin: 30rpx auto;
+	text-align: center;
+}
+

@@ -1,0 +1,104 @@
+
+.alter_info.data-v-cf2a69de {
+	font-size: 30rpx;
+	overflow: hidden;
+}
+.alter_info>view.data-v-cf2a69de {
+	position: relative;
+}
+.bg-color.data-v-cf2a69de {
+	background-color: #FFFFFF;
+	border-bottom: 1rpx solid #CCCCCC;
+}
+.alter_info.data-v-cf2a69de {
+	width: 100%;
+	height: 100%;
+	background-color: #EEEEEE;
+}
+.head_pic.data-v-cf2a69de {
+	width: 100%;
+	height: 150rpx;
+	line-height: 150rpx;
+	border-top: 20rpx solid #EEEEEE;
+	overflow: hidden;
+}
+.head_text.data-v-cf2a69de {
+	text-indent: 30rpx;
+	float: left;
+}
+.user_pic.data-v-cf2a69de {
+	float: right;
+}
+.user_pic image.data-v-cf2a69de {
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 50%;
+	margin-top: 25rpx;
+	margin-right: 30rpx;
+}
+.search input.data-v-cf2a69de {
+	width: 100%;
+	height: 100%;
+	color:#000000;
+	text-shadow:0 0 0 black;
+	text-align: right;
+}
+.name.data-v-cf2a69de {
+	width: 100%;
+	height: 100rpx;
+	line-height: 100rpx;
+}
+.select.data-v-cf2a69de {
+	width: 60%;
+	height: 100%;
+}
+.uni-input.data-v-cf2a69de{
+	width: 100%;
+}
+.name view.data-v-cf2a69de {
+	float: left;
+}
+.sex.data-v-cf2a69de {
+	width: 100%;
+	height: 100rpx;
+	line-height: 100rpx;
+}
+.sex view.data-v-cf2a69de {
+	float: left;
+}
+.birthday.data-v-cf2a69de {
+	width: 100%;
+	height: 100rpx;
+	line-height: 100rpx;
+	background-color: #FFFFFF;
+	overflow: hidden;
+}
+.birthday view.data-v-cf2a69de {
+	float: left;
+}
+.change_pwd.data-v-cf2a69de {
+	width: 100%;
+	height: 100rpx;
+	line-height: 100rpx;
+	margin-top: 20rpx;
+	overflow: hidden;
+}
+.text.data-v-cf2a69de {
+	width: 20%;
+	text-indent: 20rpx;
+	float: left;
+}
+.right.data-v-cf2a69de {
+	width: 15%;
+	height: 100%;
+	text-align: right;
+	margin-right: 30rpx;
+	position: absolute;
+	right: 0;
+	top: 8rpx;
+}
+.right image.data-v-cf2a69de {
+	width: 35rpx;
+	height: 35rpx;
+}
+

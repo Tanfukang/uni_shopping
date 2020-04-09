@@ -1,0 +1,82 @@
+
+.container {
+	width: 100%;
+	height: 1200rpx;
+	background: #EEEEEE;
+}
+
+/* 申请售后的产品 */
+.product {
+	width: 100%;
+	height: 220rpx;
+	padding-left: 40rpx;
+	background: white;
+}
+.product .youth {
+	width: 15%;
+	float: left;
+}
+.product .youth image {
+	width: 120rpx;
+	height: 120rpx;
+	margin-top: 10rpx;
+}
+.product .title {
+	height: 70rpx;
+	font-size: 27rpx;
+	line-height: 70rpx;
+	border-bottom: 1rpx solid #F6F6F6;
+	color: #999999;
+}
+.product .maintenance {
+	float: left;
+	width: 80%;
+	height: 120rpx;
+	margin-left: 30rpx;
+}
+.product .maintenance .Aftersale {
+	font-size: 27rpx;
+	color: #999999;
+	margin-top: 10rpx;
+}
+.product .maintenance .uname {
+	margin-top: 30rpx;
+}
+
+/* 维修服务 */
+.servicebox {
+	width: 100%;
+	height: 220rpx;
+	background: white;
+	margin-top: 20rpx;
+	padding-left: 40rpx;
+}
+.servicebox .typeofservice {
+	font-size: 27rpx;
+	color: #999999;
+	height: 60rpx;
+	border-bottom: 1px solid #F4F4F4;
+	width: 100%;
+	line-height: 60rpx;
+}
+.servicebox .service {
+	border: 1px solid #FF6400;
+	color: #FF6400;
+	font-size: 27rpx;
+	width: 130rpx;
+	height: 60rpx;
+	text-align: center;
+	line-height: 60rpx;
+	margin-top: 40rpx;
+}
+
+/* 问题描述 */
+.problembox{width:100%;height:420rpx;margin-top:20rpx;background:white;padding-left: 40rpx;}
+.problembox .problem{font-size:27rpx;width:100%;height:60rpx;line-height:60rpx;border-bottom:1rpx solid #F4F4F4;color:#999999;}
+.problembox textarea{border:1rpx solid #EBEBEB;width:88%;margin-top:30rpx;padding-left:20rpx;padding-top:20rpx;}
+.problembox image{width:60rpx;height:60rpx;float: left;padding-left: 20rpx;}
+.problembox .quantity view{color:#D8D8D8;font-size:27rpx;float: right;}
+.multiline{position:relative;}
+.problembox .quantity{position: absolute;bottom: 0rpx;width:88%;line-height: 60rpx;}
+.btn{width:90%;background:#FF6B01;color:white;margin-top:30rpx;}
+

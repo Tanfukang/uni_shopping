@@ -1,0 +1,112 @@
+
+.container {
+	width: 100%;
+	height: 1600rpx;
+	background: #EEEEEE;
+}
+
+/* tab切换售后和进度 */
+.top {
+	width: 100%;
+	height: 100rpx;
+	background: white;
+	line-height: 100rpx;
+}
+.top .title {
+	float: left;
+	width: 48%;
+	text-align: center;
+}
+
+/* 设备号申请 */
+.middle {
+	width: 100%;
+	height: 220rpx;
+	background: white;
+	margin-top: 20rpx;
+	padding-left: 20rpx;
+}
+.middle .title {
+	font-size: 27rpx;
+	width: 100%;
+	height: 80rpx;
+	border-bottom: 1rpx solid #EEEEEE;
+	line-height: 80rpx;
+}
+.middle input {
+	border-bottom: 1rpx solid #999999;
+	width: 65%;
+	height: 60rpx;
+	float: left;
+	margin-top: 40rpx;
+	font-size: 28rpx;
+}
+.middle button {
+	width: 25%;
+	height: 70rpx;
+	color: #FF7B1D;
+	border: 1rpx solid #FF7B1D;
+	font-size: 28rpx;
+	float: left;
+	margin-left: 20rpx;
+	margin-top: 40rpx;
+}
+
+/* 商品 */
+.bottom {
+	width: 100%;
+	padding-left: 20rpx;
+	background: white;
+	margin-top: 20rpx;
+}
+.bottom .title {
+	width: 100%;
+	height: 80rpx;
+	border-bottom: 1rpx solid #EEEEEE;
+	font-size: 28rpx;
+	line-height: 80rpx;
+	color: #C7C7C7;
+}
+.bottom view image {
+	width: 140rpx;
+	height: 140rpx;
+	float: left;
+}
+.bottom view .uname {
+	float: left;
+	width: 360rpx;
+	height: 140rpx;
+	line-height: 120rpx;
+	padding-left: 20rpx;
+}
+.bottom view .uname view {
+	width: 100%;
+	height: 40rpx;
+}
+.bottom view .uname .designation {
+	font-size: 30rpx;
+}
+.bottom view .uname .numbers {
+	font-size: 27rpx;
+	color: #B0B0B0;
+}
+.bottom .list {
+	width: 100%;
+	height: 160rpx;
+	padding: 20rpx 0rpx;
+	border-bottom: 1rpx solid #F5F5F5;
+}
+.bottom .list button {
+	width: 25%;
+	height: 70rpx;
+	color: #FF7B1D;
+	border: 1rpx solid #FF7B1D;
+	font-size: 28rpx;
+	float: left;
+	margin-top: 40rpx;
+}
+.hover {
+	color: #FE8757;
+	border-bottom: 2rpx solid #FF682A;
+}
+
